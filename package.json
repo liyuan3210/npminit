@@ -1,0 +1,15 @@
+{
+  "name": "npminit",
+  "version": "1.0.0",
+  "description": "npm 发布验证项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@mygithub:liyuan3210/npminit.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
